@@ -1,2 +1,2 @@
 # Electrician
-Support page
+Support page. Go to Wiki tab
