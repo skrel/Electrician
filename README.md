@@ -1,2 +1,3 @@
 # Electrician
-Support page. Go to Wiki tab
+Support page. <br /> 
+Go to [Wiki] (https://play.google.com/store/apps/details?id=com.skrel.electricianapp) tab
