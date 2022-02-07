@@ -1,3 +1,3 @@
 # Electrician
 Support page. <br /> 
-Go to [Wiki] (https://play.google.com/store/apps/details?id=com.skrel.electricianapp) tab
+Go to - [Wiki] (https://github.com/skrel/Electrician/wiki) tab
